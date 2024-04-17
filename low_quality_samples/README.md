@@ -9,13 +9,13 @@ Supplemental Text 2: ow-quality Data for Fourteen Jamestown Canids.
 ### Principal Investigator and Data Manager
 Name: Ariane E. Thomas\
 ORCID:0000-0001-9142-8122\
-Email: arianethomas59@gmail.com or ariane-thomas@uiowa.edu\
+Email: arianethomas59@gmail.com or ariane-thomas@uiowa.edu
 
 ### Alternate Contact 
 Name: Andrew Kitchen\
 Insitution: University of Iowa\
 Address: 129 Macbride Hall, Iowa City, IA 52242\
-Email: andrew-kitchen@uiowa.edu\
+Email: andrew-kitchen@uiowa.edu
 
 ### Contributors 
 <ul>
