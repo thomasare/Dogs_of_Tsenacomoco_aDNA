@@ -62,20 +62,23 @@ Email: andrew-kitchen@uiowa.edu
   <ul>
     <li>R script used to generate Figure 4 (A).</li>
   </ul>
-<li> ALL ACCESSIONS </li>
+<li>Samples_Jamestown_Paper.xlsx</li>
   <ul>
-    <li>List of accessions used in the original multiple sequence alignment for the maximum likelihood tree.</li>
-    <li>Duplicated sequences were removed from the alignment using RAxML.</li>
+    <li>Column names are name in fasta file, study, Species (based on mtDNA), Age, Repository, and Accession.</li>
+    <li>The first column contains the name of the sequence as it is found in the fasta file.</li>
+    <li>Study refers to the source publication the sequence was first used. Some sequences have not yet been published, but are available in GenBank and have been labeled "unpublished"</li>
+    <li>The third column, species (based on mtDNA), is the species designation listed in repository or study.</li>
+    <li>The fourth column, age, has to possible categorizations: modern or ancient. Ancient refers to archaeological specimens, and predate 1950. Most of the modern samples were collected after 2000.</li>
+    <li>The fifth column, repository, is the database housing the sample. Repositories used in this study were from GenBank, Dyrad, and ENA, the European Nucleotide Archive.</li>
+    <li>The final column is the accession number given to that sample.</li>
+    <li>File contains information including accessions used in the original multiple sequence alignment for the maximum likelihood tree.</li>
+    <li>File contains duplicated sequences that were removed from the alignment identified by RAxML.</li>
   </ul>
-<li>Bayesian FASTA FILE</li>
-  <ul>
-    <li></li>
-    <li></li>
-  </ul>
-<li>XML FILE</li>
+<li>jamestown_2023_12_04_tipdates_strict_HKYIG_constant_250m_1.xml</li>
 <ul>
-  <li></li>
-  <li></li>
+  <li>The file naming convention is the project, jamestown, the date the file was created, tipdates if ages of the samples were included (dates of the branch tips), the type of molecular clock model used (strict), the subsitution model, HKY, with invariant sites and gamma, with a constant tree prior, and the number of chains, 250 million.</li>
+  <li>Not all the files are listed here, but I duplicated this file twice and replaced the "_1" with "_2" and "_3".</li>
+  <li>All three runs were combined using LogCombiner and resampled every 250000 with 10% burnin.</li>
 </ul>
 </ol>
 
