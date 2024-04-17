@@ -69,7 +69,7 @@ Email: andrew-kitchen@uiowa.edu
     <li>Study refers to the source publication the sequence was first used. Some sequences have not yet been published, but are available in GenBank and have been labeled "unpublished"</li>
     <li>The third column, species (based on mtDNA), is the species designation listed in repository or study.</li>
     <li>The fourth column, age, has to possible categorizations: modern or ancient. Ancient refers to archaeological specimens, and predate 1950. Most of the modern samples were collected after 2000.</li>
-    <li>The fifth column, repository, is the database housing the sample. Repositories used in this study were from GenBank, Dyrad, and ENA, the European Nucleotide Archive.</li>
+    <li>The fifth column, repository, is the database housing the sample. Repositories used in this study were from GenBank, Dyrad, ENA (the European Nucleotide Archive), and SRA (Sequence Read Archive).</li>
     <li>The final column is the accession number given to that sample.</li>
     <li>File contains information including accessions used in the original multiple sequence alignment for the maximum likelihood tree.</li>
     <li>File contains duplicated sequences that were removed from the alignment identified by RAxML.</li>
