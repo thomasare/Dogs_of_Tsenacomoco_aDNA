@@ -74,7 +74,7 @@ Email: andrew-kitchen@uiowa.edu\
 </ol>
 
 ### Sharing and Access Information
-Link to Publication: doi:10.1017/aaq.2024.25
+Link to Publication: doi:10.1017/aaq.2024.25\
 Recommended Citation: Thomas, Ariane E., Matthew E. Hill Jr., Leah Stricker, Michael Lavin, David Givens, Alida de Flamingh, Kelsey
 E. Witt, Ripan S. Malhi, and Andrew Kitchen. 2024. The Dogs of Tsenacomoco: Ancient DNA Reveals the Presence of Local
 Dogs at Jamestown Colony in the Early Seventeenth Century: Analysis of Low Quality Sequences. GitHub repository. https://github/thomasare/Dogs_of_Tsenacomoco_aDNA/low_quality_samples.
