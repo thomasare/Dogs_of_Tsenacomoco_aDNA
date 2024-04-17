@@ -1,0 +1,6 @@
+The analysis was run using raxmlGUI 2.0 (version 2.0.10) as follows:
+Analysis: ML + rapid bootstrap
+Binary: raxmlHPC-PTHREADS-AVX version 8.2.12
+Results saved to: /home/ariane/Documents/Dissertation/Analysis/DNA_projects/jamestown_mtDNA_phylogeny/ML_tree_alldogs/2023_12_22_ML_Final
+RAxML was called with these arguments:
+1.) -T 7 -f a -x 730803 -p 730803 -N 500 -m GTRGAMMAI --HKY85 -O -o AM181037_Vulpes_vulpes,JN711443_Vulpes_vulpes,KP342452_Vulpes_vulpes,GQ374180_Vulpes_vulpes -n Thomas_2024_ML_6jamestown.tre -s /home/ariane/Documents/Dissertation/Analysis/DNA_projects/jamestown_mtDNA_phylogeny/ML_tree_alldogs/2023_12_22_ML_Final/Thomas_2024_jamestownbalto_aligntrim.fas -w /home/ariane/Documents/Dissertation/Analysis/DNA_projects/jamestown_mtDNA_phylogeny/ML_tree_alldogs/2023_12_22_ML_Final
