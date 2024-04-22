@@ -1,5 +1,7 @@
 # The Dogs of Tsenacomoco: Ancient DNA Reveals the Presence of Local Dogs at Jamestown Colony in the Early Seventeenth Century
 
+Copyright 2024: Ariane E. Thomas
+
 ### Abstract
 Multiple studies have demonstrated that European colonization of the Americas led to the death of nearly all
 North American dog mitochondrial lineages and replacement with European ones sometime between AD
